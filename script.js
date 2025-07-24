@@ -1,1 +1,1 @@
-const mail;
+const listaMail;
